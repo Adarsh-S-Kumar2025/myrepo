@@ -1,0 +1,41 @@
+<div class="results-page container">
+  <div class="left-col">
+    <div class="search-summary card">
+      <h3>Your Search</h3>
+      <div *ngIf="response">
+        <div><strong>Destination</strong><div>{{ route.snapshot.queryParamMap.get('destination') }}</div></div>
+      </div>
+      <div *ngIf="!response && !loading">No search yet.</div>
+      <h4>Filter by</h4>
+      <div class="filter-group">
+        <label>Price Range</label>
+        <input type="range" min="50" max="1000" />
+        <label><input type="checkbox" /> Free WiFi</label>
+      </div>
+      <button class="apply-btn">Apply Filters</button>
+    </div>
+  </div>
+
+  <div class="right-col">
+    <div class="results-header">
+      <div *ngIf="response">{{ route.snapshot.queryParamMap.get('destination') || 'Results' }}: {{ response.total }} hotels found</div>
+      <div *ngIf="loading">Loading results…</div>
+    </div>
+
+    <div *ngIf="error" class="error">{{ error }}</div>
+
+    <div *ngIf="response">
+      <div class="hotel-list">
+        <div *ngFor="let h of response.hotels" class="hotel-item card">
+          <img [src]="h.thumbnailUrl" [alt]="h.name" />
+          <div class="hotel-body">
+            <h4>{{ h.name }}</h4>
+            <div class="meta">{{ h.location }}</div>
+            <div class="price">${{ h.pricePerNight }}<span>/ night</span></div>
+            <button class="details">View Details</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
