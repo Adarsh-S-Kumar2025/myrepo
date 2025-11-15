@@ -1,0 +1,705 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{404D1D73-614A-4E6D-A3FB-58C10FBC6579}|HotelBookingSystemAPI\\HotelBookingSystemAPI.csproj|c:\\users\\adarsh.s\\source\\repos\\hotelbookingsystemapi\\hotelbookingsystemapi\\controllers\\hotelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{404D1D73-614A-4E6D-A3FB-58C10FBC6579}|HotelBookingSystemAPI\\HotelBookingSystemAPI.csproj|solutionrelative:hotelbookingsystemapi\\controllers\\hotelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B56C13-E53E-4E5F-A581-1BE78BA84F9C}|HotelBookingSystemAPI.Application\\HotelBookingSystemAPI.Application.csproj|c:\\users\\adarsh.s\\source\\repos\\hotelbookingsystemapi\\hotelbookingsystemapi.application\\hotel\\queries\\getavailablehotels\\getavailablehotelsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5B56C13-E53E-4E5F-A581-1BE78BA84F9C}|HotelBookingSystemAPI.Application\\HotelBookingSystemAPI.Application.csproj|solutionrelative:hotelbookingsystemapi.application\\hotel\\queries\\getavailablehotels\\getavailablehotelsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{404D1D73-614A-4E6D-A3FB-58C10FBC6579}|HotelBookingSystemAPI\\HotelBookingSystemAPI.csproj|c:\\users\\adarsh.s\\source\\repos\\hotelbookingsystemapi\\hotelbookingsystemapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{404D1D73-614A-4E6D-A3FB-58C10FBC6579}|HotelBookingSystemAPI\\HotelBookingSystemAPI.csproj|solutionrelative:hotelbookingsystemapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{404D1D73-614A-4E6D-A3FB-58C10FBC6579}|HotelBookingSystemAPI\\HotelBookingSystemAPI.csproj|c:\\users\\adarsh.s\\source\\repos\\hotelbookingsystemapi\\hotelbookingsystemapi\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{404D1D73-614A-4E6D-A3FB-58C10FBC6579}|HotelBookingSystemAPI\\HotelBookingSystemAPI.csproj|solutionrelative:hotelbookingsystemapi\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{404D1D73-614A-4E6D-A3FB-58C10FBC6579}|HotelBookingSystemAPI\\HotelBookingSystemAPI.csproj|c:\\users\\adarsh.s\\source\\repos\\hotelbookingsystemapi\\hotelbookingsystemapi\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{404D1D73-614A-4E6D-A3FB-58C10FBC6579}|HotelBookingSystemAPI\\HotelBookingSystemAPI.csproj|solutionrelative:hotelbookingsystemapi\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{404D1D73-614A-4E6D-A3FB-58C10FBC6579}|HotelBookingSystemAPI\\HotelBookingSystemAPI.csproj|c:\\users\\adarsh.s\\source\\repos\\hotelbookingsystemapi\\hotelbookingsystemapi\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{404D1D73-614A-4E6D-A3FB-58C10FBC6579}|HotelBookingSystemAPI\\HotelBookingSystemAPI.csproj|solutionrelative:hotelbookingsystemapi\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B56C13-E53E-4E5F-A581-1BE78BA84F9C}|HotelBookingSystemAPI.Application\\HotelBookingSystemAPI.Application.csproj|c:\\users\\adarsh.s\\source\\repos\\hotelbookingsystemapi\\hotelbookingsystemapi.application\\dtos\\roomtypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5B56C13-E53E-4E5F-A581-1BE78BA84F9C}|HotelBookingSystemAPI.Application\\HotelBookingSystemAPI.Application.csproj|solutionrelative:hotelbookingsystemapi.application\\dtos\\roomtypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B56C13-E53E-4E5F-A581-1BE78BA84F9C}|HotelBookingSystemAPI.Application\\HotelBookingSystemAPI.Application.csproj|c:\\users\\adarsh.s\\source\\repos\\hotelbookingsystemapi\\hotelbookingsystemapi.application\\dtos\\hoteldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5B56C13-E53E-4E5F-A581-1BE78BA84F9C}|HotelBookingSystemAPI.Application\\HotelBookingSystemAPI.Application.csproj|solutionrelative:hotelbookingsystemapi.application\\dtos\\hoteldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B56C13-E53E-4E5F-A581-1BE78BA84F9C}|HotelBookingSystemAPI.Application\\HotelBookingSystemAPI.Application.csproj|c:\\users\\adarsh.s\\source\\repos\\hotelbookingsystemapi\\hotelbookingsystemapi.application\\hotel\\queries\\getavailablehotels\\getavailablehotelsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5B56C13-E53E-4E5F-A581-1BE78BA84F9C}|HotelBookingSystemAPI.Application\\HotelBookingSystemAPI.Application.csproj|solutionrelative:hotelbookingsystemapi.application\\hotel\\queries\\getavailablehotels\\getavailablehotelsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B56C13-E53E-4E5F-A581-1BE78BA84F9C}|HotelBookingSystemAPI.Application\\HotelBookingSystemAPI.Application.csproj|c:\\users\\adarsh.s\\source\\repos\\hotelbookingsystemapi\\hotelbookingsystemapi.application\\hotel\\queries\\gethotelbyid\\gethotelbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5B56C13-E53E-4E5F-A581-1BE78BA84F9C}|HotelBookingSystemAPI.Application\\HotelBookingSystemAPI.Application.csproj|solutionrelative:hotelbookingsystemapi.application\\hotel\\queries\\gethotelbyid\\gethotelbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B56C13-E53E-4E5F-A581-1BE78BA84F9C}|HotelBookingSystemAPI.Application\\HotelBookingSystemAPI.Application.csproj|c:\\users\\adarsh.s\\source\\repos\\hotelbookingsystemapi\\hotelbookingsystemapi.application\\hotel\\queries\\gethotelbyid\\gethotelbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5B56C13-E53E-4E5F-A581-1BE78BA84F9C}|HotelBookingSystemAPI.Application\\HotelBookingSystemAPI.Application.csproj|solutionrelative:hotelbookingsystemapi.application\\hotel\\queries\\gethotelbyid\\gethotelbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B56C13-E53E-4E5F-A581-1BE78BA84F9C}|HotelBookingSystemAPI.Application\\HotelBookingSystemAPI.Application.csproj|c:\\users\\adarsh.s\\source\\repos\\hotelbookingsystemapi\\hotelbookingsystemapi.application\\hotel\\queries\\gethotels\\gethotelsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5B56C13-E53E-4E5F-A581-1BE78BA84F9C}|HotelBookingSystemAPI.Application\\HotelBookingSystemAPI.Application.csproj|solutionrelative:hotelbookingsystemapi.application\\hotel\\queries\\gethotels\\gethotelsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B56C13-E53E-4E5F-A581-1BE78BA84F9C}|HotelBookingSystemAPI.Application\\HotelBookingSystemAPI.Application.csproj|c:\\users\\adarsh.s\\source\\repos\\hotelbookingsystemapi\\hotelbookingsystemapi.application\\hotel\\queries\\gethotels\\gethotelsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5B56C13-E53E-4E5F-A581-1BE78BA84F9C}|HotelBookingSystemAPI.Application\\HotelBookingSystemAPI.Application.csproj|solutionrelative:hotelbookingsystemapi.application\\hotel\\queries\\gethotels\\gethotelsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F94955A-6B7C-4A20-B0F0-E73632317D9E}|HotelBookingSystemAPI.Domain\\HotelBookingSystemAPI.Domain.csproj|c:\\users\\adarsh.s\\source\\repos\\hotelbookingsystemapi\\hotelbookingsystemapi.domain\\entities\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F94955A-6B7C-4A20-B0F0-E73632317D9E}|HotelBookingSystemAPI.Domain\\HotelBookingSystemAPI.Domain.csproj|solutionrelative:hotelbookingsystemapi.domain\\entities\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F94955A-6B7C-4A20-B0F0-E73632317D9E}|HotelBookingSystemAPI.Domain\\HotelBookingSystemAPI.Domain.csproj|c:\\users\\adarsh.s\\source\\repos\\hotelbookingsystemapi\\hotelbookingsystemapi.domain\\entities\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F94955A-6B7C-4A20-B0F0-E73632317D9E}|HotelBookingSystemAPI.Domain\\HotelBookingSystemAPI.Domain.csproj|solutionrelative:hotelbookingsystemapi.domain\\entities\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C67956-D380-45B1-8964-ACBBC8E1467A}|HotelBookingSystemAPI.Infrastructure\\HotelBookingSystemAPI.Infrastructure.csproj|c:\\users\\adarsh.s\\source\\repos\\hotelbookingsystemapi\\hotelbookingsystemapi.infrastructure\\data\\hotelbookingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C67956-D380-45B1-8964-ACBBC8E1467A}|HotelBookingSystemAPI.Infrastructure\\HotelBookingSystemAPI.Infrastructure.csproj|solutionrelative:hotelbookingsystemapi.infrastructure\\data\\hotelbookingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F94955A-6B7C-4A20-B0F0-E73632317D9E}|HotelBookingSystemAPI.Domain\\HotelBookingSystemAPI.Domain.csproj|c:\\users\\adarsh.s\\source\\repos\\hotelbookingsystemapi\\hotelbookingsystemapi.domain\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F94955A-6B7C-4A20-B0F0-E73632317D9E}|HotelBookingSystemAPI.Domain\\HotelBookingSystemAPI.Domain.csproj|solutionrelative:hotelbookingsystemapi.domain\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F94955A-6B7C-4A20-B0F0-E73632317D9E}|HotelBookingSystemAPI.Domain\\HotelBookingSystemAPI.Domain.csproj|c:\\users\\adarsh.s\\source\\repos\\hotelbookingsystemapi\\hotelbookingsystemapi.domain\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F94955A-6B7C-4A20-B0F0-E73632317D9E}|HotelBookingSystemAPI.Domain\\HotelBookingSystemAPI.Domain.csproj|solutionrelative:hotelbookingsystemapi.domain\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F94955A-6B7C-4A20-B0F0-E73632317D9E}|HotelBookingSystemAPI.Domain\\HotelBookingSystemAPI.Domain.csproj|c:\\users\\adarsh.s\\source\\repos\\hotelbookingsystemapi\\hotelbookingsystemapi.domain\\entities\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F94955A-6B7C-4A20-B0F0-E73632317D9E}|HotelBookingSystemAPI.Domain\\HotelBookingSystemAPI.Domain.csproj|solutionrelative:hotelbookingsystemapi.domain\\entities\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F94955A-6B7C-4A20-B0F0-E73632317D9E}|HotelBookingSystemAPI.Domain\\HotelBookingSystemAPI.Domain.csproj|c:\\users\\adarsh.s\\source\\repos\\hotelbookingsystemapi\\hotelbookingsystemapi.domain\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F94955A-6B7C-4A20-B0F0-E73632317D9E}|HotelBookingSystemAPI.Domain\\HotelBookingSystemAPI.Domain.csproj|solutionrelative:hotelbookingsystemapi.domain\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{404D1D73-614A-4E6D-A3FB-58C10FBC6579}|HotelBookingSystemAPI\\HotelBookingSystemAPI.csproj|c:\\users\\adarsh.s\\source\\repos\\hotelbookingsystemapi\\hotelbookingsystemapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{404D1D73-614A-4E6D-A3FB-58C10FBC6579}|HotelBookingSystemAPI\\HotelBookingSystemAPI.csproj|solutionrelative:hotelbookingsystemapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C67956-D380-45B1-8964-ACBBC8E1467A}|HotelBookingSystemAPI.Infrastructure\\HotelBookingSystemAPI.Infrastructure.csproj|c:\\users\\adarsh.s\\source\\repos\\hotelbookingsystemapi\\hotelbookingsystemapi.infrastructure\\migrations\\20251114115728_change1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C67956-D380-45B1-8964-ACBBC8E1467A}|HotelBookingSystemAPI.Infrastructure\\HotelBookingSystemAPI.Infrastructure.csproj|solutionrelative:hotelbookingsystemapi.infrastructure\\migrations\\20251114115728_change1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B56C13-E53E-4E5F-A581-1BE78BA84F9C}|HotelBookingSystemAPI.Application\\HotelBookingSystemAPI.Application.csproj|c:\\users\\adarsh.s\\source\\repos\\hotelbookingsystemapi\\hotelbookingsystemapi.application\\hotelbookingsystemapi.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A5B56C13-E53E-4E5F-A581-1BE78BA84F9C}|HotelBookingSystemAPI.Application\\HotelBookingSystemAPI.Application.csproj|solutionrelative:hotelbookingsystemapi.application\\hotelbookingsystemapi.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{404D1D73-614A-4E6D-A3FB-58C10FBC6579}|HotelBookingSystemAPI\\HotelBookingSystemAPI.csproj|c:\\users\\adarsh.s\\source\\repos\\hotelbookingsystemapi\\hotelbookingsystemapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{404D1D73-614A-4E6D-A3FB-58C10FBC6579}|HotelBookingSystemAPI\\HotelBookingSystemAPI.csproj|solutionrelative:hotelbookingsystemapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B56C13-E53E-4E5F-A581-1BE78BA84F9C}|HotelBookingSystemAPI.Application\\HotelBookingSystemAPI.Application.csproj|c:\\users\\adarsh.s\\source\\repos\\hotelbookingsystemapi\\hotelbookingsystemapi.application\\employee\\command\\createemployee\\createemployeecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5B56C13-E53E-4E5F-A581-1BE78BA84F9C}|HotelBookingSystemAPI.Application\\HotelBookingSystemAPI.Application.csproj|solutionrelative:hotelbookingsystemapi.application\\employee\\command\\createemployee\\createemployeecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{404D1D73-614A-4E6D-A3FB-58C10FBC6579}|HotelBookingSystemAPI\\HotelBookingSystemAPI.csproj|c:\\users\\adarsh.s\\source\\repos\\hotelbookingsystemapi\\hotelbookingsystemapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{404D1D73-614A-4E6D-A3FB-58C10FBC6579}|HotelBookingSystemAPI\\HotelBookingSystemAPI.csproj|solutionrelative:hotelbookingsystemapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{404D1D73-614A-4E6D-A3FB-58C10FBC6579}|HotelBookingSystemAPI\\HotelBookingSystemAPI.csproj|c:\\users\\adarsh.s\\source\\repos\\hotelbookingsystemapi\\hotelbookingsystemapi\\application\\auth\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{404D1D73-614A-4E6D-A3FB-58C10FBC6579}|HotelBookingSystemAPI\\HotelBookingSystemAPI.csproj|solutionrelative:hotelbookingsystemapi\\application\\auth\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{404D1D73-614A-4E6D-A3FB-58C10FBC6579}|HotelBookingSystemAPI\\HotelBookingSystemAPI.csproj|c:\\users\\adarsh.s\\source\\repos\\hotelbookingsystemapi\\hotelbookingsystemapi\\application\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{404D1D73-614A-4E6D-A3FB-58C10FBC6579}|HotelBookingSystemAPI\\HotelBookingSystemAPI.csproj|solutionrelative:hotelbookingsystemapi\\application\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{404D1D73-614A-4E6D-A3FB-58C10FBC6579}|HotelBookingSystemAPI\\HotelBookingSystemAPI.csproj|c:\\users\\adarsh.s\\source\\repos\\hotelbookingsystemapi\\hotelbookingsystemapi\\application\\auth\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{404D1D73-614A-4E6D-A3FB-58C10FBC6579}|HotelBookingSystemAPI\\HotelBookingSystemAPI.csproj|solutionrelative:hotelbookingsystemapi\\application\\auth\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{404D1D73-614A-4E6D-A3FB-58C10FBC6579}|HotelBookingSystemAPI\\HotelBookingSystemAPI.csproj|c:\\users\\adarsh.s\\source\\repos\\hotelbookingsystemapi\\hotelbookingsystemapi\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{404D1D73-614A-4E6D-A3FB-58C10FBC6579}|HotelBookingSystemAPI\\HotelBookingSystemAPI.csproj|solutionrelative:hotelbookingsystemapi\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{404D1D73-614A-4E6D-A3FB-58C10FBC6579}|HotelBookingSystemAPI\\HotelBookingSystemAPI.csproj|c:\\users\\adarsh.s\\source\\repos\\hotelbookingsystemapi\\hotelbookingsystemapi\\hotelbookingsystemapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{404D1D73-614A-4E6D-A3FB-58C10FBC6579}|HotelBookingSystemAPI\\HotelBookingSystemAPI.csproj|solutionrelative:hotelbookingsystemapi\\hotelbookingsystemapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F94955A-6B7C-4A20-B0F0-E73632317D9E}|HotelBookingSystemAPI.Domain\\HotelBookingSystemAPI.Domain.csproj|c:\\users\\adarsh.s\\source\\repos\\hotelbookingsystemapi\\hotelbookingsystemapi.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F94955A-6B7C-4A20-B0F0-E73632317D9E}|HotelBookingSystemAPI.Domain\\HotelBookingSystemAPI.Domain.csproj|solutionrelative:hotelbookingsystemapi.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F94955A-6B7C-4A20-B0F0-E73632317D9E}|HotelBookingSystemAPI.Domain\\HotelBookingSystemAPI.Domain.csproj|c:\\users\\adarsh.s\\source\\repos\\hotelbookingsystemapi\\hotelbookingsystemapi.domain\\entities\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F94955A-6B7C-4A20-B0F0-E73632317D9E}|HotelBookingSystemAPI.Domain\\HotelBookingSystemAPI.Domain.csproj|solutionrelative:hotelbookingsystemapi.domain\\entities\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F94955A-6B7C-4A20-B0F0-E73632317D9E}|HotelBookingSystemAPI.Domain\\HotelBookingSystemAPI.Domain.csproj|c:\\users\\adarsh.s\\source\\repos\\hotelbookingsystemapi\\hotelbookingsystemapi.domain\\entities\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F94955A-6B7C-4A20-B0F0-E73632317D9E}|HotelBookingSystemAPI.Domain\\HotelBookingSystemAPI.Domain.csproj|solutionrelative:hotelbookingsystemapi.domain\\entities\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B56C13-E53E-4E5F-A581-1BE78BA84F9C}|HotelBookingSystemAPI.Application\\HotelBookingSystemAPI.Application.csproj|c:\\users\\adarsh.s\\source\\repos\\hotelbookingsystemapi\\hotelbookingsystemapi.application\\payment\\commands\\createpayment\\createpaymentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5B56C13-E53E-4E5F-A581-1BE78BA84F9C}|HotelBookingSystemAPI.Application\\HotelBookingSystemAPI.Application.csproj|solutionrelative:hotelbookingsystemapi.application\\payment\\commands\\createpayment\\createpaymentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C67956-D380-45B1-8964-ACBBC8E1467A}|HotelBookingSystemAPI.Infrastructure\\HotelBookingSystemAPI.Infrastructure.csproj|c:\\users\\adarsh.s\\source\\repos\\hotelbookingsystemapi\\hotelbookingsystemapi.infrastructure\\migrations\\20251112050831_initialize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C67956-D380-45B1-8964-ACBBC8E1467A}|HotelBookingSystemAPI.Infrastructure\\HotelBookingSystemAPI.Infrastructure.csproj|solutionrelative:hotelbookingsystemapi.infrastructure\\migrations\\20251112050831_initialize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B56C13-E53E-4E5F-A581-1BE78BA84F9C}|HotelBookingSystemAPI.Application\\HotelBookingSystemAPI.Application.csproj|c:\\users\\adarsh.s\\source\\repos\\hotelbookingsystemapi\\hotelbookingsystemapi.application\\review\\commands\\updatereview\\updatereviewcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5B56C13-E53E-4E5F-A581-1BE78BA84F9C}|HotelBookingSystemAPI.Application\\HotelBookingSystemAPI.Application.csproj|solutionrelative:hotelbookingsystemapi.application\\review\\commands\\updatereview\\updatereviewcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B56C13-E53E-4E5F-A581-1BE78BA84F9C}|HotelBookingSystemAPI.Application\\HotelBookingSystemAPI.Application.csproj|c:\\users\\adarsh.s\\source\\repos\\hotelbookingsystemapi\\hotelbookingsystemapi.application\\review\\commands\\deletereview\\deletereviewcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5B56C13-E53E-4E5F-A581-1BE78BA84F9C}|HotelBookingSystemAPI.Application\\HotelBookingSystemAPI.Application.csproj|solutionrelative:hotelbookingsystemapi.application\\review\\commands\\deletereview\\deletereviewcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B56C13-E53E-4E5F-A581-1BE78BA84F9C}|HotelBookingSystemAPI.Application\\HotelBookingSystemAPI.Application.csproj|c:\\users\\adarsh.s\\source\\repos\\hotelbookingsystemapi\\hotelbookingsystemapi.application\\room\\commands\\createroom\\createroomcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5B56C13-E53E-4E5F-A581-1BE78BA84F9C}|HotelBookingSystemAPI.Application\\HotelBookingSystemAPI.Application.csproj|solutionrelative:hotelbookingsystemapi.application\\room\\commands\\createroom\\createroomcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B56C13-E53E-4E5F-A581-1BE78BA84F9C}|HotelBookingSystemAPI.Application\\HotelBookingSystemAPI.Application.csproj|c:\\users\\adarsh.s\\source\\repos\\hotelbookingsystemapi\\hotelbookingsystemapi.application\\room\\commands\\deleteroom\\deleteroomcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5B56C13-E53E-4E5F-A581-1BE78BA84F9C}|HotelBookingSystemAPI.Application\\HotelBookingSystemAPI.Application.csproj|solutionrelative:hotelbookingsystemapi.application\\room\\commands\\deleteroom\\deleteroomcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B56C13-E53E-4E5F-A581-1BE78BA84F9C}|HotelBookingSystemAPI.Application\\HotelBookingSystemAPI.Application.csproj|c:\\users\\adarsh.s\\source\\repos\\hotelbookingsystemapi\\hotelbookingsystemapi.application\\room\\commands\\updateroom\\updateroomcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5B56C13-E53E-4E5F-A581-1BE78BA84F9C}|HotelBookingSystemAPI.Application\\HotelBookingSystemAPI.Application.csproj|solutionrelative:hotelbookingsystemapi.application\\room\\commands\\updateroom\\updateroomcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "HotelBookingSystemAPI\\Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "HotelBookingSystemAPI\\Controllers\\PaymentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T11:37:29.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RoomTypeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI.Application\\DTOs\\RoomTypeDTO.cs",
+              "RelativeDocumentMoniker": "HotelBookingSystemAPI.Application\\DTOs\\RoomTypeDTO.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI.Application\\DTOs\\RoomTypeDTO.cs",
+              "RelativeToolTip": "HotelBookingSystemAPI.Application\\DTOs\\RoomTypeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T11:37:26.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetAvailableHotelsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI.Application\\Hotel\\Queries\\GetAvailableHotels\\GetAvailableHotelsQuery.cs",
+              "RelativeDocumentMoniker": "HotelBookingSystemAPI.Application\\Hotel\\Queries\\GetAvailableHotels\\GetAvailableHotelsQuery.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI.Application\\Hotel\\Queries\\GetAvailableHotels\\GetAvailableHotelsQuery.cs",
+              "RelativeToolTip": "HotelBookingSystemAPI.Application\\Hotel\\Queries\\GetAvailableHotels\\GetAvailableHotelsQuery.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T10:51:52.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReviewController.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI\\Controllers\\ReviewController.cs",
+              "RelativeDocumentMoniker": "HotelBookingSystemAPI\\Controllers\\ReviewController.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI\\Controllers\\ReviewController.cs",
+              "RelativeToolTip": "HotelBookingSystemAPI\\Controllers\\ReviewController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T05:14:58.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HotelController.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI\\Controllers\\HotelController.cs",
+              "RelativeDocumentMoniker": "HotelBookingSystemAPI\\Controllers\\HotelController.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI\\Controllers\\HotelController.cs*",
+              "RelativeToolTip": "HotelBookingSystemAPI\\Controllers\\HotelController.cs*",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAAwFQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T05:15:27.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "HotelBookingSystemAPI\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "HotelBookingSystemAPI\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T11:37:35.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetHotelByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI.Application\\Hotel\\Queries\\GetHotelById\\GetHotelByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "HotelBookingSystemAPI.Application\\Hotel\\Queries\\GetHotelById\\GetHotelByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI.Application\\Hotel\\Queries\\GetHotelById\\GetHotelByIdQueryHandler.cs",
+              "RelativeToolTip": "HotelBookingSystemAPI.Application\\Hotel\\Queries\\GetHotelById\\GetHotelByIdQueryHandler.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T11:07:25.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RoomController.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI\\Controllers\\RoomController.cs",
+              "RelativeDocumentMoniker": "HotelBookingSystemAPI\\Controllers\\RoomController.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI\\Controllers\\RoomController.cs",
+              "RelativeToolTip": "HotelBookingSystemAPI\\Controllers\\RoomController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T11:32:00.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HotelDTO.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI.Application\\DTOs\\HotelDTO.cs",
+              "RelativeDocumentMoniker": "HotelBookingSystemAPI.Application\\DTOs\\HotelDTO.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI.Application\\DTOs\\HotelDTO.cs",
+              "RelativeToolTip": "HotelBookingSystemAPI.Application\\DTOs\\HotelDTO.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T11:33:32.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetAvailableHotelsQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI.Application\\Hotel\\Queries\\GetAvailableHotels\\GetAvailableHotelsQueryHandler.cs",
+              "RelativeDocumentMoniker": "HotelBookingSystemAPI.Application\\Hotel\\Queries\\GetAvailableHotels\\GetAvailableHotelsQueryHandler.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI.Application\\Hotel\\Queries\\GetAvailableHotels\\GetAvailableHotelsQueryHandler.cs",
+              "RelativeToolTip": "HotelBookingSystemAPI.Application\\Hotel\\Queries\\GetAvailableHotels\\GetAvailableHotelsQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T06:38:50.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetHotelByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI.Application\\Hotel\\Queries\\GetHotelById\\GetHotelByIdQuery.cs",
+              "RelativeDocumentMoniker": "HotelBookingSystemAPI.Application\\Hotel\\Queries\\GetHotelById\\GetHotelByIdQuery.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI.Application\\Hotel\\Queries\\GetHotelById\\GetHotelByIdQuery.cs",
+              "RelativeToolTip": "HotelBookingSystemAPI.Application\\Hotel\\Queries\\GetHotelById\\GetHotelByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T11:07:21.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetHotelsQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI.Application\\Hotel\\Queries\\GetHotels\\GetHotelsQueryHandler.cs",
+              "RelativeDocumentMoniker": "HotelBookingSystemAPI.Application\\Hotel\\Queries\\GetHotels\\GetHotelsQueryHandler.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI.Application\\Hotel\\Queries\\GetHotels\\GetHotelsQueryHandler.cs",
+              "RelativeToolTip": "HotelBookingSystemAPI.Application\\Hotel\\Queries\\GetHotels\\GetHotelsQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T11:07:44.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetHotelsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI.Application\\Hotel\\Queries\\GetHotels\\GetHotelsQuery.cs",
+              "RelativeDocumentMoniker": "HotelBookingSystemAPI.Application\\Hotel\\Queries\\GetHotels\\GetHotelsQuery.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI.Application\\Hotel\\Queries\\GetHotels\\GetHotelsQuery.cs",
+              "RelativeToolTip": "HotelBookingSystemAPI.Application\\Hotel\\Queries\\GetHotels\\GetHotelsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T11:07:42.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI.Domain\\Entities\\Room.cs",
+              "RelativeDocumentMoniker": "HotelBookingSystemAPI.Domain\\Entities\\Room.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI.Domain\\Entities\\Room.cs",
+              "RelativeToolTip": "HotelBookingSystemAPI.Domain\\Entities\\Room.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T06:12:28.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RoomType.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI.Domain\\Entities\\RoomType.cs",
+              "RelativeDocumentMoniker": "HotelBookingSystemAPI.Domain\\Entities\\RoomType.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI.Domain\\Entities\\RoomType.cs",
+              "RelativeToolTip": "HotelBookingSystemAPI.Domain\\Entities\\RoomType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T06:12:36.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HotelBookingDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI.Infrastructure\\Data\\HotelBookingDbContext.cs",
+              "RelativeDocumentMoniker": "HotelBookingSystemAPI.Infrastructure\\Data\\HotelBookingDbContext.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI.Infrastructure\\Data\\HotelBookingDbContext.cs",
+              "RelativeToolTip": "HotelBookingSystemAPI.Infrastructure\\Data\\HotelBookingDbContext.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T11:51:51.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI.Domain\\Entities\\Payment.cs",
+              "RelativeDocumentMoniker": "HotelBookingSystemAPI.Domain\\Entities\\Payment.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI.Domain\\Entities\\Payment.cs",
+              "RelativeToolTip": "HotelBookingSystemAPI.Domain\\Entities\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T10:44:29.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI.Domain\\Entities\\Review.cs",
+              "RelativeDocumentMoniker": "HotelBookingSystemAPI.Domain\\Entities\\Review.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI.Domain\\Entities\\Review.cs",
+              "RelativeToolTip": "HotelBookingSystemAPI.Domain\\Entities\\Review.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T06:12:19.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Hotel.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI.Domain\\Entities\\Hotel.cs",
+              "RelativeDocumentMoniker": "HotelBookingSystemAPI.Domain\\Entities\\Hotel.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI.Domain\\Entities\\Hotel.cs",
+              "RelativeToolTip": "HotelBookingSystemAPI.Domain\\Entities\\Hotel.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAIwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T06:11:55.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI.Domain\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "HotelBookingSystemAPI.Domain\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI.Domain\\Entities\\Employee.cs",
+              "RelativeToolTip": "HotelBookingSystemAPI.Domain\\Entities\\Employee.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T06:11:42.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "HotelBookingSystemAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI\\appsettings.json",
+              "RelativeToolTip": "HotelBookingSystemAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-14T11:37:16.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20251114115728_change1.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI.Infrastructure\\Migrations\\20251114115728_change1.cs",
+              "RelativeDocumentMoniker": "HotelBookingSystemAPI.Infrastructure\\Migrations\\20251114115728_change1.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI.Infrastructure\\Migrations\\20251114115728_change1.cs",
+              "RelativeToolTip": "HotelBookingSystemAPI.Infrastructure\\Migrations\\20251114115728_change1.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAADwvyQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T11:57:28.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HotelBookingSystemAPI.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI.Application\\HotelBookingSystemAPI.Application.csproj",
+              "RelativeDocumentMoniker": "HotelBookingSystemAPI.Application\\HotelBookingSystemAPI.Application.csproj",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI.Application\\HotelBookingSystemAPI.Application.csproj",
+              "RelativeToolTip": "HotelBookingSystemAPI.Application\\HotelBookingSystemAPI.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-14T11:55:40.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "HotelBookingSystemAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "HotelBookingSystemAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA3wCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T10:39:54.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CreateEmployeeCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI.Application\\Employee\\Command\\CreateEmployee\\CreateEmployeeCommandHandler.cs",
+              "RelativeDocumentMoniker": "HotelBookingSystemAPI.Application\\Employee\\Command\\CreateEmployee\\CreateEmployeeCommandHandler.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI.Application\\Employee\\Command\\CreateEmployee\\CreateEmployeeCommandHandler.cs",
+              "RelativeToolTip": "HotelBookingSystemAPI.Application\\Employee\\Command\\CreateEmployee\\CreateEmployeeCommandHandler.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T05:06:43.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI\\Program.cs",
+              "RelativeDocumentMoniker": "HotelBookingSystemAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI\\Program.cs",
+              "RelativeToolTip": "HotelBookingSystemAPI\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAjwBAAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T05:04:39.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI\\Application\\Auth\\TokenService.cs",
+              "RelativeDocumentMoniker": "HotelBookingSystemAPI\\Application\\Auth\\TokenService.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI\\Application\\Auth\\TokenService.cs",
+              "RelativeToolTip": "HotelBookingSystemAPI\\Application\\Auth\\TokenService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAArwAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T10:39:00.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI\\Application\\DTOs\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "HotelBookingSystemAPI\\Application\\DTOs\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI\\Application\\DTOs\\LoginRequest.cs",
+              "RelativeToolTip": "HotelBookingSystemAPI\\Application\\DTOs\\LoginRequest.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA3wA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T10:39:47.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI\\Application\\Auth\\ITokenService.cs",
+              "RelativeDocumentMoniker": "HotelBookingSystemAPI\\Application\\Auth\\ITokenService.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI\\Application\\Auth\\ITokenService.cs",
+              "RelativeToolTip": "HotelBookingSystemAPI\\Application\\Auth\\ITokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T10:38:16.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-14T10:37:34.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "HotelBookingSystemAPI\\Controllers\\BookingController.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "HotelBookingSystemAPI\\Controllers\\BookingController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T05:44:41.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "HotelBookingSystemAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI\\HotelBookingSystemAPI.csproj",
+              "RelativeDocumentMoniker": "HotelBookingSystemAPI\\HotelBookingSystemAPI.csproj",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI\\HotelBookingSystemAPI.csproj",
+              "RelativeToolTip": "HotelBookingSystemAPI\\HotelBookingSystemAPI.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-14T10:05:12.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI.Domain\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "HotelBookingSystemAPI.Domain\\Entities\\Customer.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI.Domain\\Entities\\Customer.cs",
+              "RelativeToolTip": "HotelBookingSystemAPI.Domain\\Entities\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T06:11:27.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI.Domain\\Entities\\Enums.cs",
+              "RelativeDocumentMoniker": "HotelBookingSystemAPI.Domain\\Entities\\Enums.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI.Domain\\Entities\\Enums.cs",
+              "RelativeToolTip": "HotelBookingSystemAPI.Domain\\Entities\\Enums.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T06:12:45.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI.Domain\\Entities\\Booking.cs",
+              "RelativeDocumentMoniker": "HotelBookingSystemAPI.Domain\\Entities\\Booking.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI.Domain\\Entities\\Booking.cs",
+              "RelativeToolTip": "HotelBookingSystemAPI.Domain\\Entities\\Booking.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA5wBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T06:10:33.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CreatePaymentCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI.Application\\Payment\\Commands\\CreatePayment\\CreatePaymentCommandHandler.cs",
+              "RelativeDocumentMoniker": "HotelBookingSystemAPI.Application\\Payment\\Commands\\CreatePayment\\CreatePaymentCommandHandler.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI.Application\\Payment\\Commands\\CreatePayment\\CreatePaymentCommandHandler.cs",
+              "RelativeToolTip": "HotelBookingSystemAPI.Application\\Payment\\Commands\\CreatePayment\\CreatePaymentCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T05:04:28.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20251112050831_Initialize.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI.Infrastructure\\Migrations\\20251112050831_Initialize.cs",
+              "RelativeDocumentMoniker": "HotelBookingSystemAPI.Infrastructure\\Migrations\\20251112050831_Initialize.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI.Infrastructure\\Migrations\\20251112050831_Initialize.cs",
+              "RelativeToolTip": "HotelBookingSystemAPI.Infrastructure\\Migrations\\20251112050831_Initialize.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T05:08:31.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UpdateReviewCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI.Application\\Review\\Commands\\UpdateReview\\UpdateReviewCommandHandler.cs",
+              "RelativeDocumentMoniker": "HotelBookingSystemAPI.Application\\Review\\Commands\\UpdateReview\\UpdateReviewCommandHandler.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI.Application\\Review\\Commands\\UpdateReview\\UpdateReviewCommandHandler.cs",
+              "RelativeToolTip": "HotelBookingSystemAPI.Application\\Review\\Commands\\UpdateReview\\UpdateReviewCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIAwwAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T05:06:33.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DeleteReviewCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI.Application\\Review\\Commands\\DeleteReview\\DeleteReviewCommandHandler.cs",
+              "RelativeDocumentMoniker": "HotelBookingSystemAPI.Application\\Review\\Commands\\DeleteReview\\DeleteReviewCommandHandler.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI.Application\\Review\\Commands\\DeleteReview\\DeleteReviewCommandHandler.cs",
+              "RelativeToolTip": "HotelBookingSystemAPI.Application\\Review\\Commands\\DeleteReview\\DeleteReviewCommandHandler.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAIAwwAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T05:06:25.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CreateRoomCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI.Application\\Room\\Commands\\CreateRoom\\CreateRoomCommandHandler.cs",
+              "RelativeDocumentMoniker": "HotelBookingSystemAPI.Application\\Room\\Commands\\CreateRoom\\CreateRoomCommandHandler.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI.Application\\Room\\Commands\\CreateRoom\\CreateRoomCommandHandler.cs",
+              "RelativeToolTip": "HotelBookingSystemAPI.Application\\Room\\Commands\\CreateRoom\\CreateRoomCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T05:06:03.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "DeleteRoomCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI.Application\\Room\\Commands\\DeleteRoom\\DeleteRoomCommandHandler.cs",
+              "RelativeDocumentMoniker": "HotelBookingSystemAPI.Application\\Room\\Commands\\DeleteRoom\\DeleteRoomCommandHandler.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI.Application\\Room\\Commands\\DeleteRoom\\DeleteRoomCommandHandler.cs",
+              "RelativeToolTip": "HotelBookingSystemAPI.Application\\Room\\Commands\\DeleteRoom\\DeleteRoomCommandHandler.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAIAwwAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T05:05:56.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UpdateRoomCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI.Application\\Room\\Commands\\UpdateRoom\\UpdateRoomCommandHandler.cs",
+              "RelativeDocumentMoniker": "HotelBookingSystemAPI.Application\\Room\\Commands\\UpdateRoom\\UpdateRoomCommandHandler.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\HotelBookingSystemAPI\\HotelBookingSystemAPI.Application\\Room\\Commands\\UpdateRoom\\UpdateRoomCommandHandler.cs",
+              "RelativeToolTip": "HotelBookingSystemAPI.Application\\Room\\Commands\\UpdateRoom\\UpdateRoomCommandHandler.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAIAwwAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T05:04:43.521Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

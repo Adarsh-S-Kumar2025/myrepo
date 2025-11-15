@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\HotelBookingSystemAPI.Application\\Hotel",
+    "\\HotelBookingSystemAPI.Application\\Hotel\\Queries",
+    "\\HotelBookingSystemAPI.Application\\Hotel\\Queries\\GetAvailableHotels"
+  ],
+  "SelectedNode": "\\HotelBookingSystemAPI.sln",
+  "PreviewInSolutionExplorer": false
+}
