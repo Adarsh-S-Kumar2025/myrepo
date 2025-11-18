@@ -1,0 +1,67 @@
+<div class="results-page container">
+  <div class="left-col">
+    <div class="search-summary card">
+      <h3>Your Search</h3>
+      <div class="summary-grid">
+        <div>
+          <div class="label">Destination</div>
+          <div class="value">{{ route.snapshot.queryParamMap.get('location') || route.snapshot.queryParamMap.get('destination') || '-' }}</div>
+        </div>
+        <div>
+          <div class="label">Check-in</div>
+          <div class="value">{{ route.snapshot.queryParamMap.get('checkIn') | date:'mediumDate' }}</div>
+        </div>
+        <div>
+          <div class="label">Check-out</div>
+          <div class="value">{{ route.snapshot.queryParamMap.get('checkOut') | date:'mediumDate' }}</div>
+        </div>
+      </div>
+      <div class="hint" *ngIf="!response && !loading">Enter details and click Search to see results.</div>
+      <div class="filter-group">
+        <label>Max Price: <strong>{{ priceMax }}</strong></label>
+        <input type="range" min="500" max="10000" step="100" [(ngModel)]="priceMax" />
+      </div>
+    </div>
+  </div>
+
+  <div class="right-col">
+    <div class="results-header">
+      <div class="left-part">
+        <div *ngIf="response">{{ route.snapshot.queryParamMap.get('location') || route.snapshot.queryParamMap.get('destination') || 'Results' }}: {{ displayedHotels.length }} hotel(s) shown</div>
+        <div *ngIf="loading">Loading results…</div>
+      </div>
+      <div class="right-part" *ngIf="response && !loading">
+        <label class="sort-label">Sort:
+          <select [(ngModel)]="sortMode">
+            <option value="priceAsc">Price (Low → High)</option>
+            <option value="priceDesc">Price (High → Low)</option>
+            <option value="rating">Rating</option>
+          </select>
+        </label>
+      </div>
+    </div>
+
+    <div *ngIf="error" class="error">{{ error }}</div>
+    <div *ngIf="!loading && !error && !response" class="empty">No results yet. Enter a destination and search.</div>
+
+    <div *ngIf="response">
+      <div class="hotel-list">
+        <div *ngFor="let h of displayedHotels" class="hotel-item card">
+          <img [src]="h.thumbnailUrl" [alt]="h.name" />
+          <div class="hotel-body">
+            <h4>{{ h.name }}</h4>
+            <div class="meta">{{ h.location }}</div>
+            <div class="rating" *ngIf="h.rating !== undefined && h.rating !== null">
+              <div class="stars" aria-label="Rating: {{ h.rating }} out of 5">
+                <span *ngFor="let s of [1,2,3,4,5]" [class.filled]="s <= (h.rating || 0)">★</span>
+              </div>
+              <span class="score">{{ h.rating }}/5</span>
+            </div>
+            <div class="price">${{ h.pricePerNight }}<span>/ night</span></div>
+            <button class="details" [routerLink]="['/rooms']" [queryParams]="{ hotelId: h.id, checkIn: route.snapshot.queryParamMap.get('checkIn'), checkOut: route.snapshot.queryParamMap.get('checkOut') }">Available Rooms</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

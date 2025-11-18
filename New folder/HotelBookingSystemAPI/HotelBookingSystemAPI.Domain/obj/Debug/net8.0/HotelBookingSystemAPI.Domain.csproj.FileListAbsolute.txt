@@ -1,0 +1,33 @@
+C:\Users\adarsh.s\source\repos\HotelBookingSystemAPI\HotelBookingSystemAPI.Domain\bin\Debug\net8.0\HotelBookingSystemAPI.Domain.deps.json
+C:\Users\adarsh.s\source\repos\HotelBookingSystemAPI\HotelBookingSystemAPI.Domain\bin\Debug\net8.0\HotelBookingSystemAPI.Domain.dll
+C:\Users\adarsh.s\source\repos\HotelBookingSystemAPI\HotelBookingSystemAPI.Domain\bin\Debug\net8.0\HotelBookingSystemAPI.Domain.pdb
+C:\Users\adarsh.s\source\repos\HotelBookingSystemAPI\HotelBookingSystemAPI.Domain\obj\Debug\net8.0\HotelBookingSystemAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adarsh.s\source\repos\HotelBookingSystemAPI\HotelBookingSystemAPI.Domain\obj\Debug\net8.0\HotelBookingSystemAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\adarsh.s\source\repos\HotelBookingSystemAPI\HotelBookingSystemAPI.Domain\obj\Debug\net8.0\HotelBookingSystemAPI.Domain.AssemblyInfo.cs
+C:\Users\adarsh.s\source\repos\HotelBookingSystemAPI\HotelBookingSystemAPI.Domain\obj\Debug\net8.0\HotelBookingSystemAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\adarsh.s\source\repos\HotelBookingSystemAPI\HotelBookingSystemAPI.Domain\obj\Debug\net8.0\HotelBookingSystemAPI.Domain.dll
+C:\Users\adarsh.s\source\repos\HotelBookingSystemAPI\HotelBookingSystemAPI.Domain\obj\Debug\net8.0\refint\HotelBookingSystemAPI.Domain.dll
+C:\Users\adarsh.s\source\repos\HotelBookingSystemAPI\HotelBookingSystemAPI.Domain\obj\Debug\net8.0\HotelBookingSystemAPI.Domain.pdb
+C:\Users\adarsh.s\source\repos\HotelBookingSystemAPI\HotelBookingSystemAPI.Domain\obj\Debug\net8.0\ref\HotelBookingSystemAPI.Domain.dll
+C:\Users\adarsh.s\Desktop\HotelAngular\HotelBookingSystemAPI\HotelBookingSystemAPI.Domain\bin\Debug\net8.0\HotelBookingSystemAPI.Domain.deps.json
+C:\Users\adarsh.s\Desktop\HotelAngular\HotelBookingSystemAPI\HotelBookingSystemAPI.Domain\bin\Debug\net8.0\HotelBookingSystemAPI.Domain.dll
+C:\Users\adarsh.s\Desktop\HotelAngular\HotelBookingSystemAPI\HotelBookingSystemAPI.Domain\bin\Debug\net8.0\HotelBookingSystemAPI.Domain.pdb
+C:\Users\adarsh.s\Desktop\HotelAngular\HotelBookingSystemAPI\HotelBookingSystemAPI.Domain\obj\Debug\net8.0\HotelBookingSystemAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adarsh.s\Desktop\HotelAngular\HotelBookingSystemAPI\HotelBookingSystemAPI.Domain\obj\Debug\net8.0\HotelBookingSystemAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\adarsh.s\Desktop\HotelAngular\HotelBookingSystemAPI\HotelBookingSystemAPI.Domain\obj\Debug\net8.0\HotelBookingSystemAPI.Domain.AssemblyInfo.cs
+C:\Users\adarsh.s\Desktop\HotelAngular\HotelBookingSystemAPI\HotelBookingSystemAPI.Domain\obj\Debug\net8.0\HotelBookingSystemAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\adarsh.s\Desktop\HotelAngular\HotelBookingSystemAPI\HotelBookingSystemAPI.Domain\obj\Debug\net8.0\HotelBookingSystemAPI.Domain.dll
+C:\Users\adarsh.s\Desktop\HotelAngular\HotelBookingSystemAPI\HotelBookingSystemAPI.Domain\obj\Debug\net8.0\refint\HotelBookingSystemAPI.Domain.dll
+C:\Users\adarsh.s\Desktop\HotelAngular\HotelBookingSystemAPI\HotelBookingSystemAPI.Domain\obj\Debug\net8.0\HotelBookingSystemAPI.Domain.pdb
+C:\Users\adarsh.s\Desktop\HotelAngular\HotelBookingSystemAPI\HotelBookingSystemAPI.Domain\obj\Debug\net8.0\ref\HotelBookingSystemAPI.Domain.dll
+C:\Users\adarsh.s\Desktop\New folder\HotelBookingSystemAPI\HotelBookingSystemAPI.Domain\bin\Debug\net8.0\HotelBookingSystemAPI.Domain.deps.json
+C:\Users\adarsh.s\Desktop\New folder\HotelBookingSystemAPI\HotelBookingSystemAPI.Domain\bin\Debug\net8.0\HotelBookingSystemAPI.Domain.dll
+C:\Users\adarsh.s\Desktop\New folder\HotelBookingSystemAPI\HotelBookingSystemAPI.Domain\bin\Debug\net8.0\HotelBookingSystemAPI.Domain.pdb
+C:\Users\adarsh.s\Desktop\New folder\HotelBookingSystemAPI\HotelBookingSystemAPI.Domain\obj\Debug\net8.0\HotelBookingSystemAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adarsh.s\Desktop\New folder\HotelBookingSystemAPI\HotelBookingSystemAPI.Domain\obj\Debug\net8.0\HotelBookingSystemAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\adarsh.s\Desktop\New folder\HotelBookingSystemAPI\HotelBookingSystemAPI.Domain\obj\Debug\net8.0\HotelBookingSystemAPI.Domain.AssemblyInfo.cs
+C:\Users\adarsh.s\Desktop\New folder\HotelBookingSystemAPI\HotelBookingSystemAPI.Domain\obj\Debug\net8.0\HotelBookingSystemAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\adarsh.s\Desktop\New folder\HotelBookingSystemAPI\HotelBookingSystemAPI.Domain\obj\Debug\net8.0\HotelBookingSystemAPI.Domain.dll
+C:\Users\adarsh.s\Desktop\New folder\HotelBookingSystemAPI\HotelBookingSystemAPI.Domain\obj\Debug\net8.0\refint\HotelBookingSystemAPI.Domain.dll
+C:\Users\adarsh.s\Desktop\New folder\HotelBookingSystemAPI\HotelBookingSystemAPI.Domain\obj\Debug\net8.0\HotelBookingSystemAPI.Domain.pdb
+C:\Users\adarsh.s\Desktop\New folder\HotelBookingSystemAPI\HotelBookingSystemAPI.Domain\obj\Debug\net8.0\ref\HotelBookingSystemAPI.Domain.dll

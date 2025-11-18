@@ -1,0 +1,19 @@
+<div class="admin-shell container">
+  <aside class="sidebar">
+    <div class="brand">DASHBOARD</div>
+    <nav class="nav">
+      <a routerLink="/admin/employee" routerLinkActive="active">Employee</a>
+      <a routerLink="/admin/customer" routerLinkActive="active">Customer</a>
+      <a routerLink="/admin/room" routerLinkActive="active">Room</a>
+      <a routerLink="/admin/roomtype" routerLinkActive="active">RoomType</a>
+      <a routerLink="/admin/review" routerLinkActive="active">Review</a>
+      <a routerLink="/admin/hotel" routerLinkActive="active">Hotel</a>
+      <a routerLink="/admin/payment" routerLinkActive="active">Payment</a>
+      <a routerLink="/admin/booking" routerLinkActive="active">Booking</a>
+    </nav>
+  </aside>
+
+  <section class="content">
+    <router-outlet></router-outlet>
+  </section>
+</div>

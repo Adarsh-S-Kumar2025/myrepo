@@ -1,0 +1,53 @@
+<header class="site-header">
+  <div class="container header-inner">
+    <div class="logo">StayHub</div>
+    <button class="signin">Sign In</button>
+  </div>
+</header>
+
+<section class="hero">
+  <div class="hero-bg" role="img" aria-label="Hotel building background"></div>
+
+  <div class="search-card container">
+    <div class="search-row">
+      <label class="field">
+        <span class="label">Destination</span>
+        <input [(ngModel)]="destination" placeholder="e.g. New York" />
+      </label>
+      <label class="field small">
+        <span class="label">Check-in</span>
+        <input type="date" [(ngModel)]="checkIn" />
+      </label>
+      <label class="field small">
+        <span class="label">Check-out</span>
+        <input type="date" [(ngModel)]="checkOut" />
+      </label>
+      <!-- Guests field removed per request -->
+    </div>
+    <div class="search-action">
+      <button class="search-btn" (click)="search()" [disabled]="loading">{{ loading ? 'Checking…' : '🔍 Search Hotels' }}</button>
+    </div>
+    <div class="status" *ngIf="error || availableCount !== null">
+      <span *ngIf="error" class="error">{{ error }}</span>
+      <span *ngIf="!error && availableCount !== null" class="ok">{{ availableCount }} option(s) available</span>
+    </div>
+  </div>
+</section>
+
+<main class="container main-content">
+  <h2 class="section-title">Popular Destinations</h2>
+  <div class="dest-grid">
+    <ng-container *ngFor="let p of popular">
+      <div class="dest-card">
+        <img [src]="p.img" [alt]="p.name" />
+        <div class="dest-name">{{ p.name }}</div>
+      </div>
+    </ng-container>
+  </div>
+</main>
+
+<footer class="site-footer">
+  <div class="container footer-inner">© 2025 StayHub. All rights reserved.
+    <nav class="footer-links"><a>About</a> · <a>Contact</a> · <a>Terms of Service</a></nav>
+  </div>
+</footer>

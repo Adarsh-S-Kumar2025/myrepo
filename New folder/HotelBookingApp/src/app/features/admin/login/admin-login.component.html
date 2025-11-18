@@ -1,0 +1,17 @@
+<div class="login-page container">
+  <div class="login-card card">
+    <h2>Admin Sign In</h2>
+    <form (ngSubmit)="submit()">
+      <label>Username
+        <input [(ngModel)]="username" name="username" required />
+      </label>
+      <label>Password
+        <input [(ngModel)]="password" name="password" type="password" required />
+      </label>
+      <div class="actions">
+        <button type="submit" [disabled]="loading">{{ loading ? 'Signing in…' : 'Sign In' }}</button>
+      </div>
+      <div class="error" *ngIf="error">{{ error }}</div>
+    </form>
+  </div>
+</div>

@@ -1,0 +1,58 @@
+<div class="entity-shell">
+  <div class="header-row">
+    <h2>Customer Management</h2>
+    <button class="add" (click)="toggleAdd()" aria-label="Add">
+      <svg viewBox="0 0 24 24"><path d="M19 11H13V5h-2v6H5v2h6v6h2v-6h6z"/></svg>
+      Add Customer
+    </button>
+  </div>
+
+  <div class="add-form card" *ngIf="showAdd">
+    <form (ngSubmit)="addOrUpdate()">
+      <div class="grid">
+        <label>
+          <span>Full Name</span>
+          <input [(ngModel)]="model.fullName" name="fullName" required />
+        </label>
+        <label>
+          <span>Email</span>
+          <input [(ngModel)]="model.email" name="email" />
+        </label>
+        <label>
+          <span>Phone Number</span>
+          <input [(ngModel)]="model.phoneNumber" name="phoneNumber" />
+        </label>
+        <label>
+          <span>ID Proof Number</span>
+          <input [(ngModel)]="model.idProofNumber" name="idProofNumber" />
+        </label>
+      </div>
+      <div class="actions">
+        <button type="submit">{{ editing ? 'Update' : 'Add' }}</button>
+        <button type="button" class="muted" (click)="resetForm(); showAdd=false">Cancel</button>
+      </div>
+    </form>
+  </div>
+
+  <div class="cards" *ngIf="!loading && !error">
+    <div class="card item" *ngFor="let c of customers">
+      <div class="meta">
+        <div class="name">{{ c.fullName }}</div>
+        <div class="sub">{{ c.email }}</div>
+        <div class="sub">{{ c.phoneNumber }}</div>
+        <div class="sub">ID: {{ c.idProofNumber }}</div>
+      </div>
+      <div class="actions">
+        <button class="icon" aria-label="Edit" title="Edit" (click)="edit(c)">
+          <svg viewBox="0 0 24 24"><path d="M3 17.25V21h3.75L17.81 9.94l-3.75-3.75L3 17.25zm14.71-9.04a.996.996 0 0 0 0-1.41l-2.5-2.5a.996.996 0 1 0-1.41 1.41l2.5 2.5c.39.39 1.03.39 1.41 0z"/></svg>
+        </button>
+        <button class="icon danger" aria-label="Delete" title="Delete" (click)="delete(c)">
+          <svg viewBox="0 0 24 24"><path d="M16 9v10H8V9h8m-1.5-6h-5l-1 1H5v2h14V4h-3.5l-1-1z"/></svg>
+        </button>
+      </div>
+    </div>
+    <div class="empty" *ngIf="customers.length === 0">No customers.</div>
+  </div>
+  <div class="loading" *ngIf="loading">Loading customers…</div>
+  <div class="error" *ngIf="error">{{ error }}</div>
+</div>

@@ -1,0 +1,20 @@
+<div class="entity-shell">
+  <div class="header">
+    <h2>Booking</h2>
+  </div>
+
+  <div class="cards" *ngIf="!loading && !error">
+    <div class="card item" *ngFor="let b of bookings">
+      <div class="title">Booking #{{ b.id }}</div>
+      <div class="sub">Customer: {{ b.customerId }} | Room: {{ b.roomId }}</div>
+      <div class="sub">Dates: {{ b.checkInDate | date:'mediumDate' }} → {{ b.checkOutDate | date:'mediumDate' }}</div>
+      <div class="meta">Status: {{ b.status }} | Amount: ₹{{ b.totalAmount }}</div>
+      <div class="meta">Payment ID: {{ b.paymentId }}</div>
+    </div>
+
+    <div class="empty" *ngIf="bookings.length === 0">No bookings.</div>
+  </div>
+
+  <div class="loading" *ngIf="loading">Loading bookings…</div>
+  <div class="error" *ngIf="error">{{ error }}</div>
+</div>
